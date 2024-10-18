@@ -4,9 +4,9 @@
 ![GitHub stars](https://img.shields.io/github/stars/dhrub-dubey/Abt_Me?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/dhrub-dubey/Abt_Me?style=social)
 [![Twitter Follow](https://img.shields.io/twitter/follow/DhrubDubey4?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-[![YouTube Channel Views](https://img.shields.io/youtube/views/SoxmIlgf2zM?style=social)](https://youtu.be/SoxmIlgf2zM)
+[![YouTube Channel]]([https://youtube.com/@dhrubakawatson?si=IMZburmmoOiLG5qM])
 
-vCard is a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
+About Me is a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
 
 ## Demo
 
